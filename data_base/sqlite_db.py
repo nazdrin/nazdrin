@@ -1,5 +1,6 @@
 import sqlite3 as sq
 import json
+#dsfsdf
 
 def sql_start(): #создание базы данных и таблиц
     global base
